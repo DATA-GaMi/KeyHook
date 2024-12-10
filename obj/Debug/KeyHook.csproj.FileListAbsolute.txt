@@ -1,0 +1,14 @@
+E:\C#\KeyHook\bin\Debug\KeyHook.exe.config
+E:\C#\KeyHook\bin\Debug\KeyHook.exe
+E:\C#\KeyHook\bin\Debug\KeyHook.pdb
+E:\C#\KeyHook\obj\Debug\KeyHook.csproj.AssemblyReference.cache
+E:\C#\KeyHook\obj\Debug\KeyHook.csproj.CoreCompileInputs.cache
+E:\C#\KeyHook\obj\Debug\KeyHook.exe
+E:\C#\KeyHook\obj\Debug\KeyHook.pdb
+E:\.Net\2024\KeyHook\bin\Debug\KeyHook.exe.config
+E:\.Net\2024\KeyHook\bin\Debug\KeyHook.exe
+E:\.Net\2024\KeyHook\obj\Debug\KeyHook.csproj.AssemblyReference.cache
+E:\.Net\2024\KeyHook\obj\Debug\KeyHook.csproj.CoreCompileInputs.cache
+E:\.Net\2024\KeyHook\obj\Debug\KeyHook.exe
+E:\.Net\2024\KeyHook\obj\Debug\KeyHook.pdb
+E:\.Net\2024\KeyHook\bin\Debug\KeyHook.pdb
